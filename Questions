@@ -1,0 +1,22 @@
+
+Here are questions below 
+
+-- 1 Create a query that returns the total quantity of all products with the ID of P4 sold in the years 2020, 2021 and 2022.
+
+-- 2 Find all  clients and the orders that they placed in the years 2022 and 2021. 
+
+-- 3 Find the sales performance of their product in the year 2021.Analyze the performance of this product by developing a function called FindSoldQuantity:
+ 
+-- 4 Find the total number of orders placed by each client.
+
+-- 5 Calculate the total revenue generated from each product.
+
+-- 6 Identify the top 1 client based on the number of orders they placed. 
+
+-- 7 Retrieve the top 3 counties with the highest sales revenue.
+
+-- 8 List the clients who have placed orders worth more than 75000 in total. 
+
+-- 9 Calculate the profit margin for each product and display the products with a margin above 20%.
+
+-- 10 Show the addresses of all clients.
